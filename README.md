@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khevynn Sá</h1>
 <h3 align="center">A passionate Game's developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Time Warp](https://time-warp.cyclic.app/)
+- 🔭 I’m currently working on **Frostbite Extraction**
 
-- 🌱 I’m currently learning **Frontend + Backend for Web Development and learning also about Unity for games development**
+- 🌱 I’m currently learning **Unreal Engine 5 and Multiplayer Basics**
 
-- 📫 How to reach me **khevynn.d.sa@hotmail.com**
-
-- ⚡ Fun fact **I'm 16 years old XD**
+- 📫 How to reach me **tgwinter@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
