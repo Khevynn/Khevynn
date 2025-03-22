@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khevynn Sá</h1>
 <h3 align="center">A passionate Game's developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Frostbite Extraction**
+- 🔭 I’m currently working on **Outlander**
 
-- 🌱 I’m currently learning **Unreal Engine 5 and Multiplayer Basics**
+- 🌱 I’m currently learning **Games Engines Development**
 
 - 📫 How to reach me **tgwinter@proton.me**
 
